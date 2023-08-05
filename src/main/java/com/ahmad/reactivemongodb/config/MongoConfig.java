@@ -1,3 +1,4 @@
+/*
 package com.ahmad.reactivemongodb.config;
 
 import com.mongodb.reactivestreams.client.MongoClient;
@@ -25,7 +26,7 @@ public class MongoConfig {
     }
 
 
-    /*
+
     @Bean
     public MongoClient mongoClient(){
         return MongoClients.create();
@@ -37,6 +38,7 @@ public class MongoConfig {
     }
 }
 //the above would be necessary if we were using the standalone MongoDB installation. But, as we're using Spring Boot with embedded MongoDB in our example, the above configuration is not necessary
-*/
+
 
 }
+*/
